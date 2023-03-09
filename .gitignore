@@ -1,0 +1,10 @@
+.terraform
+*.terragrunt-cache
+*.tfstate
+*.tfstate.backup
+ec2-example-ssh-key
+ec2-example-ssh-key.pub
+provider.tf
+*.terraform.lock.hcl
+.terraform.tfstate.lock.info
+catatan
